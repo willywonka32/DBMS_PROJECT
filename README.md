@@ -9,8 +9,4 @@ All sql table info can be found in table.sql.
 
 more free projects
 
-click here - https://projectworlds.in
-
-
-YouTube Demo - https://youtu.be/J_7G_AahgSw
 
